@@ -6,9 +6,9 @@ categories: r examples presentation
 ---
 Here is the presentation that I gave for [IstanbulCoders group](http://istanbulcoders.org) in March 2015.
 
-To view in full screen go to: [http://mertnuhoglu.github.io/data_analysis_istanbulcoders/index.html](http://mertnuhoglu.github.io/data_analysis_istanbulcoders/index.html)
+To view in full screen go to: [http://mertnuhoglu.github.io/data_analysis_istanbulcoders/istanbulcoders/index.html](http://mertnuhoglu.github.io/data_analysis_istanbulcoders/istanbulcoders/index.html)
 
-Source in [github](https://github.com/mertnuhoglu/data_analysis_istanbulcoders)
+Source in [github](https://github.com/mertnuhoglu/data_analysis_istanbulcoders/istanbulcoders)
 
-<iframe id="html5slides" src="http://mertnuhoglu.github.io/data_analysis_istanbulcoders/" width="800" height="600" scrolling="no" align="middle" frameborder="0"></iframe>
+<iframe id="html5slides" src="http://mertnuhoglu.github.io/data_analysis_istanbulcoders/istanbulcoders/" width="800" height="600" scrolling="no" align="middle" frameborder="0"></iframe>
 
