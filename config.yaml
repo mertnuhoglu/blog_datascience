@@ -1,0 +1,6 @@
+baseurl: http://datascience.mertnuhoglu.com
+disablePathToLower: true
+languageCode: en-us
+title: Data Science Notes
+theme: herring-cove
+...
